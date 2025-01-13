@@ -1,0 +1,1 @@
+// Delete this file as we're not handling payments
